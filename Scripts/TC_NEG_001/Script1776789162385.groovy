@@ -24,7 +24,7 @@ WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.waitForPageLoad(10)
 
-// Input data first name
+// Input data first nameas
 if (Firstname == "" || Firstname == null) {
     assert false : "Firstname wajib diisi"
 }
