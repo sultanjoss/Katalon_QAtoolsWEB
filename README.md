@@ -5,8 +5,8 @@ DEMOQAWEB
         Mencakup:
    
         Pengujian data-driven menggunakan file Excel/CSV.
-        Skenario positif (input valid).
-        Skenario negatif (validasi mandatory field, format email, dll).
+        Skenario positif 1 Test Cas (input valid). menggunakan data-driven
+        Skenario negatif 17 Test Case (validasi mandatory field, format email, dll). menggunakan data-driven dan assert yang diperlukan.
 
 3. Persyaratan
         Katalon Studio Enterprise v10.4.3 atau lebih baru
